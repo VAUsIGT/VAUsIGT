@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Telegram-%230088cc?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FNi9ght_IGT" alt="Telegram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=VAUsIGT&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -26,5 +25,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAUsIGT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/VAUsIGT/VAUsIGT/blob/main/github-metrics.svg">](https://github.com/VAUsIGT/VAUsIGT)
+<img src="https://komarev.com/ghpvc/?username=VAUsIGT&style=flat-square&color=blue" alt=""/>
