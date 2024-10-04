@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+
 <div id="badges">
   <a href="https://vk.com/vladimir_00">
     <img src="https://img.shields.io/badge/VKontakte-%234C75A3?style=flat&logo=vk&logoColor=white&link=https%3A%2F%2Fvk.com%2Fvladimir_00" alt="VKontakte Badge"/>
@@ -25,5 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAUsIGT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 [<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/VAUsIGT/VAUsIGT/blob/main/github-metrics.svg">](https://github.com/VAUsIGT/VAUsIGT)
