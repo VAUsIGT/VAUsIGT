@@ -7,3 +7,5 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=VAUsIGT&style=flat-square&color=blue" alt=""/>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAUsIGT)](https://github.com/anuraghazra/github-readme-stats)
