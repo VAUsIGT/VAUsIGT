@@ -11,8 +11,7 @@
 
 ---
 
-### Languages and tools
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Langages+and+Tools)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Languages+and+Tools)](https://git.io/typing-svg)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
