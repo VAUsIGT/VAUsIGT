@@ -25,7 +25,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAUsIGT&layout=full&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VAUsIGT&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/VAUsIGT)
  
 
 <img src="https://komarev.com/ghpvc/?username=VAUsIGT&style=flat-square&color=blue" alt=""/>
